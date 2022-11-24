@@ -1,0 +1,19 @@
+.example-card {
+  height: 25%;
+  width: 50%;
+  margin: 20% 0% 0% 25%;
+}
+
+/*
+.flex {
+  flex-direction: row;
+  justify-content: space-between;
+  margin-left: auto;
+}
+*/
+
+mat-card-header {
+  display:inline;
+  justify-content: space-around;
+}
+
